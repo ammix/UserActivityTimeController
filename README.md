@@ -1,2 +1,2 @@
-# GameStopper
-Windows service for controlling children's play time of computer games
+# UserActivityTimeController
+Windows service for controlling children's play time in computer games
